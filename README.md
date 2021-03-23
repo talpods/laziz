@@ -36,6 +36,7 @@ CMS for cooking recipes
 - Favourite system
 
 ## Low Level Specs (users stories)
+- As an admin, I can see the list of all recipes
 - As an admin, I can create a new recipe under specific category and fill in the steps
 - As an admin, I can publish any recipe to the public
 - As an admin, I can delete/edit any recipe 
