@@ -1,0 +1,29 @@
+{
+  "name": "laziz",
+  "version": "1.0.0",
+  "description": "CMS for cooking recipes",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx mix watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/top-interns/laziz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/top-interns/laziz/issues"
+  },
+  "homepage": "https://github.com/top-interns/laziz#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.13",
+    "postcss-cli": "^8.3.1"
+  }
+}
