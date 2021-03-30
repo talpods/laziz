@@ -1,14 +1,37 @@
 [
     {
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
         "title": "Rib-eye Steak",
         "duration": "15 mins",
-        "isPublished": true
+        "isPublished": true,
+        "steps": [
+            {
+                "title": "Heat the plate over 500f",
+                "duration": "5 mins"
+            },
+            {
+                "title": "Cook the first side of the steak with no oil and butter",
+                "duration": "5 mins"
+            },
+            {
+                "title": "Flip the steak, cook the second side of the steak until it's ready",
+                "duration": "5 mins"
+            },
+            {
+                "title": "Enjoy 😆"
+            }
+        ]
     },
     {
-        "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2FsbW9ufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2FsbW9ufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "title": "Salmon",
         "duration": "1 h",
+        "isPublished": false
+    },
+    {
+        "url": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVhdHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "Mandi",
+        "duration": "1:30 h",
         "isPublished": false
     }
 ]

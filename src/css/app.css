@@ -6,4 +6,7 @@
     .button {
         @apply bg-accent font-bold border-2 border-black px-6 py-2 rounded-lg;
     }
+    .button.disable {
+        @apply bg-gray-500 text-gray-200 cursor-not-allowed;
+    }
 }
